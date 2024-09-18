@@ -1,0 +1,22 @@
+.container{
+    margin: 30px 0;
+}
+
+#nombre *, #empresa *, #escuela *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+#socials{
+    display: flex;
+}
+
+#socials a{
+    padding: 0 10px;
+}
+
+#escuela{
+    padding: 10px 0;
+}
